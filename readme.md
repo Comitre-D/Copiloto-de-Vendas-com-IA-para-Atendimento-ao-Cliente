@@ -1,11 +1,11 @@
 Copiloto-de-Vendas-com-IA-para-Atendimento-ao-Cliente
 Atividade final do bootcamp DIO - LUPO.
 
-Copiloto de Vendas Inteligente - Hardware & TIO Copiloto de Vendas Inteligente é uma solução de Inteligência Artificial desenvolvida para atuar como um Consultor Especialista em hardware.
+Copiloto de Vendas Inteligente - Hardware & TIO - Copiloto de Vendas Inteligente é uma solução de Inteligência Artificial desenvolvida para atuar como um Consultor Especialista em hardware.
 
 O sistema utiliza uma Lógica de Estados para guiar o vendedor desde a identificação da oportunidade até o protocolo de pós-venda, garantindo que as recomendações sejam tecnicamente precisas e baseadas em dados reais.
 
-🧠 Lógica de Funcionamento: O agente opera sob uma estrutura de Filtro de Contexto que identifica o momento da venda: ESTADO 1: OPORTUNIDADE, Diagnóstico: Classificação de Ticket (High/Low) e identificação de lacunas de informação. Qualificação: Perguntas estratégicas baseadas no uso (FPS, Office, Edição). Oferta: Consulta dinâmica à base de preços oficial (Base_Precos_Copiloto_Vendas_v1) que está no Google Drive. Ancoragem: Estratégia de preços comparativa (Bom/Ótimo/Premium). ESTADO 2: SUCESSO - Acionado após a confirmação da venda.
+🧠 Lógica de Funcionamento: O agente opera sob uma estrutura de Filtro de Contexto que identifica o momento da venda: ESTADO 1: OPORTUNIDADE, Diagnóstico: Classificação de Ticket (High/Low) e identificação de lacunas de informação. Qualificação: Perguntas estratégicas baseadas no uso (FPS, Office, Edição). Oferta: Consulta dinâmica à base de preços oficial (Base_Precos_Copiloto_Vendas_v1) alocada no Google Drive. Ancoragem: Estratégia de preços comparativa (Bom/Ótimo/Premium). ESTADO 2: SUCESSO - Acionado após a confirmação da venda.
 
 Gera mensagens personalizadas para WhatsApp.Define estratégias de fidelização e LTV (Lifetime Value).
 
